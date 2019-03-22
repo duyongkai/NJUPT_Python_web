@@ -1,2 +1,3 @@
-# NJUPT_Python_web
-the web for student to submit homework and analysis what they have done for NJUPT
+# PythonCrawler
+
+一部分爬虫程序，剩下的有点乱之后再上传吧！
